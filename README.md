@@ -1,2 +1,2 @@
 # gptgate
-Telegram bot, ChatGPT gateway. Access by invitation codes.
+Telegram bot, ChatGPT gateway. Access by invitation codes and credit points.
